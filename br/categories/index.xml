@@ -2,95 +2,95 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Atmos Maciel</title>
-    <link>https://atmosmaciel.github.io/br/categories/</link>
+    <link>https://atmosmp.me/br/categories/</link>
     <description>Recent content in Categories on Atmos Maciel</description>
     <generator>Hugo</generator>
     <language>br</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 29 Nov 2024 18:19:52 -0300</lastBuildDate>
-    <atom:link href="https://atmosmaciel.github.io/br/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Oct 2025 10:23:28 -0300</lastBuildDate>
+    <atom:link href="https://atmosmp.me/br/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Containers</title>
-      <link>https://atmosmaciel.github.io/br/categories/containers/</link>
+      <link>https://atmosmp.me/br/categories/containers/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmaciel.github.io/br/categories/containers/</guid>
+      <guid>https://atmosmp.me/br/categories/containers/</guid>
       <description></description>
     </item>
     <item>
       <title>Docker</title>
-      <link>https://atmosmaciel.github.io/br/categories/docker/</link>
+      <link>https://atmosmp.me/br/categories/docker/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmaciel.github.io/br/categories/docker/</guid>
+      <guid>https://atmosmp.me/br/categories/docker/</guid>
       <description></description>
     </item>
     <item>
       <title>Blog</title>
-      <link>https://atmosmaciel.github.io/br/categories/blog/</link>
+      <link>https://atmosmp.me/br/categories/blog/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmaciel.github.io/br/categories/blog/</guid>
+      <guid>https://atmosmp.me/br/categories/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Php</title>
-      <link>https://atmosmaciel.github.io/br/categories/php/</link>
+      <link>https://atmosmp.me/br/categories/php/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmaciel.github.io/br/categories/php/</guid>
+      <guid>https://atmosmp.me/br/categories/php/</guid>
       <description></description>
     </item>
     <item>
       <title>Symfony</title>
-      <link>https://atmosmaciel.github.io/br/categories/symfony/</link>
+      <link>https://atmosmp.me/br/categories/symfony/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmaciel.github.io/br/categories/symfony/</guid>
+      <guid>https://atmosmp.me/br/categories/symfony/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech</title>
-      <link>https://atmosmaciel.github.io/br/categories/tech/</link>
+      <link>https://atmosmp.me/br/categories/tech/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmaciel.github.io/br/categories/tech/</guid>
+      <guid>https://atmosmp.me/br/categories/tech/</guid>
       <description></description>
     </item>
     <item>
       <title>Reactjs</title>
-      <link>https://atmosmaciel.github.io/br/categories/reactjs/</link>
+      <link>https://atmosmp.me/br/categories/reactjs/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmaciel.github.io/br/categories/reactjs/</guid>
+      <guid>https://atmosmp.me/br/categories/reactjs/</guid>
       <description></description>
     </item>
     <item>
       <title>Configs</title>
-      <link>https://atmosmaciel.github.io/br/categories/configs/</link>
+      <link>https://atmosmp.me/br/categories/configs/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmaciel.github.io/br/categories/configs/</guid>
+      <guid>https://atmosmp.me/br/categories/configs/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
-      <link>https://atmosmaciel.github.io/br/categories/linux/</link>
+      <link>https://atmosmp.me/br/categories/linux/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmaciel.github.io/br/categories/linux/</guid>
+      <guid>https://atmosmp.me/br/categories/linux/</guid>
       <description></description>
     </item>
     <item>
       <title>Git</title>
-      <link>https://atmosmaciel.github.io/br/categories/git/</link>
+      <link>https://atmosmp.me/br/categories/git/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmaciel.github.io/br/categories/git/</guid>
+      <guid>https://atmosmp.me/br/categories/git/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>https://atmosmaciel.github.io/br/categories/python/</link>
+      <link>https://atmosmp.me/br/categories/python/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmaciel.github.io/br/categories/python/</guid>
+      <guid>https://atmosmp.me/br/categories/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Community</title>
-      <link>https://atmosmaciel.github.io/br/categories/community/</link>
+      <link>https://atmosmp.me/br/categories/community/</link>
       <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://atmosmaciel.github.io/br/categories/community/</guid>
+      <guid>https://atmosmp.me/br/categories/community/</guid>
       <description></description>
     </item>
   </channel>
