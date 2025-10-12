@@ -2,95 +2,95 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Atmos Maciel</title>
-    <link>https://atmosmps.github.io/tags/</link>
+    <link>https://atmosmaciel.github.io/tags/</link>
     <description>Recent content in Tags on Atmos Maciel</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Fri, 11 Jul 2025 22:36:32 -0300</lastBuildDate>
-    <atom:link href="https://atmosmps.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://atmosmaciel.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tech</title>
-      <link>https://atmosmps.github.io/tags/tech/</link>
+      <link>https://atmosmaciel.github.io/tags/tech/</link>
       <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/tags/tech/</guid>
+      <guid>https://atmosmaciel.github.io/tags/tech/</guid>
       <description></description>
     </item>
     <item>
       <title>Tip</title>
-      <link>https://atmosmps.github.io/tags/tip/</link>
+      <link>https://atmosmaciel.github.io/tags/tip/</link>
       <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/tags/tip/</guid>
+      <guid>https://atmosmaciel.github.io/tags/tip/</guid>
       <description></description>
     </item>
     <item>
       <title>Containers</title>
-      <link>https://atmosmps.github.io/tags/containers/</link>
+      <link>https://atmosmaciel.github.io/tags/containers/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/tags/containers/</guid>
+      <guid>https://atmosmaciel.github.io/tags/containers/</guid>
       <description></description>
     </item>
     <item>
       <title>Docker</title>
-      <link>https://atmosmps.github.io/tags/docker/</link>
+      <link>https://atmosmaciel.github.io/tags/docker/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/tags/docker/</guid>
+      <guid>https://atmosmaciel.github.io/tags/docker/</guid>
       <description></description>
     </item>
     <item>
       <title>Personal</title>
-      <link>https://atmosmps.github.io/tags/personal/</link>
+      <link>https://atmosmaciel.github.io/tags/personal/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/tags/personal/</guid>
+      <guid>https://atmosmaciel.github.io/tags/personal/</guid>
       <description></description>
     </item>
     <item>
       <title>Php</title>
-      <link>https://atmosmps.github.io/tags/php/</link>
+      <link>https://atmosmaciel.github.io/tags/php/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/tags/php/</guid>
+      <guid>https://atmosmaciel.github.io/tags/php/</guid>
       <description></description>
     </item>
     <item>
       <title>Symfony</title>
-      <link>https://atmosmps.github.io/tags/symfony/</link>
+      <link>https://atmosmaciel.github.io/tags/symfony/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/tags/symfony/</guid>
+      <guid>https://atmosmaciel.github.io/tags/symfony/</guid>
       <description></description>
     </item>
     <item>
       <title>Reactjs</title>
-      <link>https://atmosmps.github.io/tags/reactjs/</link>
+      <link>https://atmosmaciel.github.io/tags/reactjs/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/tags/reactjs/</guid>
+      <guid>https://atmosmaciel.github.io/tags/reactjs/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
-      <link>https://atmosmps.github.io/tags/linux/</link>
+      <link>https://atmosmaciel.github.io/tags/linux/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/tags/linux/</guid>
+      <guid>https://atmosmaciel.github.io/tags/linux/</guid>
       <description></description>
     </item>
     <item>
       <title>Me-to-Me</title>
-      <link>https://atmosmps.github.io/tags/me-to-me/</link>
+      <link>https://atmosmaciel.github.io/tags/me-to-me/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/tags/me-to-me/</guid>
+      <guid>https://atmosmaciel.github.io/tags/me-to-me/</guid>
       <description></description>
     </item>
     <item>
       <title>Git</title>
-      <link>https://atmosmps.github.io/tags/git/</link>
+      <link>https://atmosmaciel.github.io/tags/git/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/tags/git/</guid>
+      <guid>https://atmosmaciel.github.io/tags/git/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>https://atmosmps.github.io/tags/python/</link>
+      <link>https://atmosmaciel.github.io/tags/python/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/tags/python/</guid>
+      <guid>https://atmosmaciel.github.io/tags/python/</guid>
       <description></description>
     </item>
   </channel>
